@@ -1,0 +1,34 @@
+
+Amount of order # 1 is: $20.0 
+Amount of Sales tax(7%): $1.4 
+The total amount including tax added: $21.4 
+Commission percent 2.0 %: $0.4 
+Order net amount after commission is: $21.0 
+=================================== 
+Amount of order # 2 is: $30.0 
+Amount of Sales tax(7%): $2.1 
+The total amount including tax added: $32.1 
+Commission percent 2.0 %: $0.6 
+Order net amount after commission is: $31.5 
+=================================== 
+Amount of order # 3 is: $40.0 
+Amount of Sales tax(7%): $2.8 
+The total amount including tax added: $42.8 
+Commission percent 2.0 %: $0.8 
+Order net amount after commission is: $42.0 
+=================================== 
+Amount of order # 4 is: $50.0 
+Amount of Sales tax(7%): $3.5 
+The total amount including tax added: $53.5 
+Commission percent 2.0 %: $1.0 
+Order net amount after commission is: $52.5 
+=================================== 
+Amount of order # 5 is: $60.0 
+Amount of Sales tax(7%): $4.2 
+The total amount including tax added: $64.2 
+Commission percent 2.0 %: $1.2 
+Order net amount after commission is: $63.0 
+=================================== 
+Sum of total order is: $210.0 
+Average of total order is: $42.0 
+Thanks for your business and please come again.
